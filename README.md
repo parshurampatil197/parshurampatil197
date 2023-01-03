@@ -10,7 +10,7 @@ Hello, folks! 👋 Myself Parshuram Patil a Software Engineer with Python, Djang
 
 - 🔭 I am Currently working as **Software Engineer** at [Great Software Laboratory (GS Lab)](https://www.gslab.com/)
 - 🌱 I’m currently learning FullStack Web development
-- 💬 Reach me at **parshurampatil197@gmail.com** 
+- 💬 Reach me at **parshuram.patil666@gmail.com** 
 - 👨‍💻 All of my projects are available at https://github.com/parshurampatil197 
 
 
