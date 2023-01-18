@@ -3,7 +3,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/pik1989"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;3%2B+years+of+coding+experience;Always+learning+new+things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/pik1989"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;2%2B+years+of+coding+experience;Always+learning+new+things&center=true&width=380&height=45"></a>
 </p>
 
 Hello, folks! 👋 Myself Parshuram Patil a Software Engineer with Python, Django & Backend Skills. I am hard-working person who loves to write clean and scalable code. Using latest tech stack. Always hungry for learning new things.
