@@ -8,7 +8,7 @@
 
 Hello, folks! 👋 Myself Parshuram Patil a Software Engineer with Python, Django & Backend Skills. I am hard-working person who loves to write clean and scalable code. Using latest tech stack. Always hungry for learning new things.
 
-- 🔭 I am Currently working as **Software Engineer** at [Great Software Laboratory (GS Lab)](https://www.gslab.com/)
+- 🔭 I am Currently working as **Senior Software Engineer** at [Persistent System](https://www.persistent.com)
 - 🌱 I’m currently learning FullStack Web development
 - 💬 Reach me at **parshurampatil197@gmail.com** 
 - 👨‍💻 All of my projects are available at https://github.com/parshurampatil197 
